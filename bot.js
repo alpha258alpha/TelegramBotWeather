@@ -44,7 +44,7 @@ bot.on("text", async (ctx) => {
     ctx.reply(
       `🌆 City : ${location.name} \n\n 🌡 Temperature ${
         current.temperature
-      }°\n\n❓ Weather status  : ${
+      }°\n\n❓ Weather status   : ${
         (weatherStatus.toLowerCase().includes("clear") === true && "☀️") ||
         (weatherStatus.toLowerCase().includes("sunny") === true && "☀️") ||
         (weatherStatus.toLowerCase().includes("cloud") === true && "☁️") ||
