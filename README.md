@@ -5,14 +5,14 @@ Test this bot now  : https://t.me/world_weather_aymen_bot
 Created By Aymen Ghnia 🇹🇳 
 
 
- 🌎 Aymenghnia.com 
+ 🌎 https://Aymenghnia.com 
  
- 🌎  github.com/aymenghnia/
+ 🌎  https://github.com/aymenghnia/
  
- 📱 :telegram : https://t.me/aymenghnia 
+ 📱  Telegram : https://t.me/aymenghnia 
   
- 📱 :instagram : instagram.com/aymen_ghnia 
+ 📱  Instagram : https://instagram.com/aymen_ghnia 
 
- 💻 : Facebook : facebook.com/ghniaaymen3/ 
+ 💻 : Facebook : https://facebook.com/ghniaaymen3/ 
 
  📞 : +216 51 550 022 
