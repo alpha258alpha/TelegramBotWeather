@@ -36,13 +36,13 @@ bot.on("text", async (ctx) => {
   const { message } = ctx;
   const { data } = await fetchData(message.text);
   if (data.success === false) {
-    ctx.reply(" ❌ Enter a valid city name: ❌");
+    ctx.reply("  ❌ Enter a valid city name: ❌");
   } else {  
     const  { current, location } = data;
     const weatherStatus = current.weather_descriptions[0];
 
     ctx.reply(
-      `🌆 City : ${location.name}\n\n 🌡 Temperature ${
+      `🌆 City : ${location.name} \n\n 🌡 Temperature ${
         current.temperature
       }°\n\n❓ Weather status  : ${
         (weatherStatus.toLowerCase().includes("clear") === true && "☀️") ||
